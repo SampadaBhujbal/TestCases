@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24221" started-at="2020-05-25T12:45:17Z" finished-at="2020-05-25T12:45:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24221" started-at="2020-05-25T12:45:17Z" finished-at="2020-05-25T12:45:41Z">
+      <class name="com.flipkart.FlipkartLogin">
+        <test-method status="PASS" signature="setUpChrome()[pri:0, instance:com.flipkart.FlipkartLogin@2e4b8173]" name="setUpChrome" is-config="true" duration-ms="23252" started-at="2020-05-25T12:45:17Z" finished-at="2020-05-25T12:45:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method status="PASS" signature="loginUsingValidCridential()[pri:0, instance:com.flipkart.FlipkartLogin@2e4b8173]" name="loginUsingValidCridential" duration-ms="858" started-at="2020-05-25T12:45:41Z" finished-at="2020-05-25T12:45:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUsingValidCridential -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:com.flipkart.FlipkartLogin@2e4b8173]" name="verifyTitle" duration-ms="49" started-at="2020-05-25T12:45:41Z" finished-at="2020-05-25T12:45:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+      </class> <!-- com.flipkart.FlipkartLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
